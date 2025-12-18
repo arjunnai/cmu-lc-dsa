@@ -5,7 +5,7 @@ public:
         int cols = grid[0].size();
         int islandCtr = 0;
         for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; ++j) {
+            for (int j = 0; j < cols; j++) {
                 if (grid[i][j] == '1') {
                     islandVisited(grid, i, j);
                     islandCtr++;
