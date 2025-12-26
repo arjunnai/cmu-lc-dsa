@@ -5,7 +5,6 @@ public:
         stack<int> st;
         int maxT = 0;
         for (int i = 0; i < temperatures.size(); i++) {
-            cout << temperatures[i] << "\n";
             while ( !st.empty() && temperatures[i] > temperatures[st.top()] ){
                 int idx = st.top();
                 st.pop();
