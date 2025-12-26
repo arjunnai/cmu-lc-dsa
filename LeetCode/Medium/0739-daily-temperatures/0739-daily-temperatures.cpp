@@ -1,3 +1,9 @@
+    auto init = []() {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
+        cout.tie(nullptr);
+        return 'c';
+    }();
 class Solution {
 public:
     vector<int> dailyTemperatures(vector<int>& temperatures) {
@@ -5,14 +11,12 @@ public:
         stack<int> st;
         int maxT = 0;
         for (int i = 0; i < temperatures.size(); i++) {
-            while ( !st.empty() && temperatures[i] > temperatures[st.top()] ){
+            while (!st.empty() && temperatures[i] > temperatures[st.top()]) {
                 int idx = st.top();
                 st.pop();
                 ans[idx] = i - idx;
             }
             st.push(i);
-
-            
         }
         return ans;
     }
