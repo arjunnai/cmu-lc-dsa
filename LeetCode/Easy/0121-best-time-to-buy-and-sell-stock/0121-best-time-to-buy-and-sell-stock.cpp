@@ -1,11 +1,16 @@
+auto init = []() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return 'c';
+}();
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int minPrice = prices[0];
-        int maxProfit = 0;
-        for (int i = 0; i < prices.size(); i++) {
-            minPrice = min(minPrice, prices[i]);
-            maxProfit = max(maxProfit, (prices[i] - minPrice));
+        int minPrice = INT_MAX, maxProfit = 0;
+        for (int price : prices) {
+            minPrice = min(minPrice, price);
+            maxProfit = max(maxProfit, price - minPrice);
         }
         return maxProfit;
     }
