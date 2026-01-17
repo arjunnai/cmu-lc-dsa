@@ -5,7 +5,6 @@ public:
         if (nums.size() == 0)
             return 0;
         int cnt = 1, prevVar = nums[0], longest = 1;
-
         for (int i = 1; i < nums.size(); i++) {
             if ((nums[i] - 1) == prevVar) {
                 cnt++;
