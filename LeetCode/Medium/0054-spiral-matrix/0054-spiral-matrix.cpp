@@ -3,33 +3,34 @@ public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
         int top = 0, bottom = matrix.size() - 1, left = 0,
             right = matrix[0].size() - 1;
-        vector<int> answer;
+        vector<int> res;
         while (top <= bottom && left <= right) {
-            for (int j = left; j <= right; j++) {
-                // move first row on top from left to right
-                answer.push_back(matrix[top][j]);
+            for (int i = left; i <= right; i++) {
+                // left -> right
+                res.push_back(matrix[top][i]);
             }
-            // top or 0th row is done so next row now.
             top++;
-            for (int j = top; j <= bottom; j++) {
-                // move from top to bottom on right most row
-                answer.push_back(matrix[j][right]);
+
+            for (int i = top; i <= bottom; i++) {
+                // top -> bottom on right col
+                res.push_back(matrix[i][right]);
             }
-            // right most col is done so next col now.
             right--;
             if (top <= bottom) {
-                for (int j = right; j >= left; j--) {
-                    answer.push_back(matrix[bottom][j]);
+                for (int i = right; i >= left; i--) {
+                    // right -> left on bottom row
+                    res.push_back(matrix[bottom][i]);
                 }
                 bottom--;
             }
             if (left <= right) {
-                for (int j = bottom; j >= top; j--) {
-                    answer.push_back(matrix[j][left]);
+                for (int i = bottom; i >= top; i--) {
+                    // left -> right on left col
+                    res.push_back(matrix[i][left]);
                 }
                 left++;
             }
         }
-        return answer;
+        return res;
     }
 };
