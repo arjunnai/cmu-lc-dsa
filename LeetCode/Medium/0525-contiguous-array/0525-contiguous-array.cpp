@@ -1,6 +1,8 @@
 class Solution {
 public:
     int findMaxLength(vector<int>& nums) {
+        // change all the 0 to -1, save sum and index in a hashmap..
+        // subtract the 2 indexes to get lenght and do max
         unordered_map<int, int> ump;
         int sum = 0, maxLen = 0;
         ump[0] = -1;
