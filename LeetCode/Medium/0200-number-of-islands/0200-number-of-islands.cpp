@@ -1,30 +1,30 @@
 class Solution {
 public:
     int numIslands(vector<vector<char>>& grid) {
+        int count = 0;
         int rows = grid.size();
         int cols = grid[0].size();
-        int islandCtr = 0;
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
                 if (grid[i][j] == '1') {
-                    islandVisited(grid, i, j);
-                    islandCtr++;
+
+                    dfs(grid, i, j);
+                    count++;
                 }
             }
         }
-        return islandCtr;
+        return count;
     }
-
-    void islandVisited(vector<vector<char>>& grid, int i, int j) {
-        if (i < 0 || i >= grid.size() || j < 0 || j >= grid[0].size() ||
-            grid[i][j] != '1') {
+    void dfs(vector<vector<char>>& grid, int i, int j) {
+        int rows = grid.size();
+        int cols = grid[0].size();
+        if (i < 0 || i >= rows || j < 0 || j >= cols || grid[i][j] != '1') {
             return;
-        } else {
-            grid[i][j] = '2';
-            islandVisited(grid, i + 1, j);
-            islandVisited(grid, i, j + 1);
-            islandVisited(grid, i - 1, j);
-            islandVisited(grid, i, j - 1);
         }
+        grid[i][j] = '*';
+        dfs(grid, i + 1, j);
+        dfs(grid, i, j + 1);
+        dfs(grid, i - 1, j);
+        dfs(grid, i, j - 1);
     }
 };
