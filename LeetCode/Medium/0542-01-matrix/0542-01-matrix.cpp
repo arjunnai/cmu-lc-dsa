@@ -17,7 +17,7 @@ public:
             auto [r, c] = q.front();
             q.pop();
 
-            vector<pair<int, int>> check = {
+            int check[4][2] = {
                 {r + 1, c}, {r - 1, c}, {r, c + 1}, {r, c - 1}};
             for (auto [row, col] : check) {
                 if (row >= 0 && row < rows && col >= 0 && col < cols &&
