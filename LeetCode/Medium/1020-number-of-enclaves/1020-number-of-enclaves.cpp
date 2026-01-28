@@ -20,9 +20,7 @@ public:
         }
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
-                if (grid[i][j] == -1) {
-                    grid[i][j] = 1;
-                } else if (grid[i][j] == 1) {
+                if (grid[i][j] == 1) {
                     res++;
                 }
             }
