@@ -28,8 +28,8 @@ public:
         prev->next = nullptr;
         ListNode* leftSort = sortList(head);
         ListNode* rightSort = sortList(slow);
-        ListNode* dummy = new ListNode(0);
-        ListNode* curr = dummy;
+        ListNode dummy(0);
+        ListNode *curr = &dummy;
         while (leftSort && rightSort) {
             if (leftSort->val < rightSort->val) {
                 curr->next = leftSort;
@@ -41,6 +41,6 @@ public:
             curr = curr->next;
         }
         curr->next = (leftSort != nullptr) ? leftSort : rightSort;
-        return dummy->next;
+        return dummy.next;
     }
 };
