@@ -11,38 +11,28 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        // slow fast to find midpoint
-        // then you reverse linkedlist
-        ListNode* slow = head;
-        ListNode* fast = head;
-        while (fast != nullptr && fast->next != nullptr) {
+        if (!head || !head->next)
+            return true;
+        ListNode *slow = head, *fast = head, *prev = nullptr;
+        while (fast->next != nullptr && fast->next->next != nullptr){
             slow = slow->next;
             fast = fast->next->next;
         }
-        ListNode* rev = reverseList(slow);
-        ListNode* curr = head;
-
-        while (rev != nullptr) {
-            if (curr->val != rev->val) {
-                return false;
-            }
-            curr = curr->next;
-            rev = rev->next;
-        }
-
-        return true;
-    }
-
-    ListNode* reverseList(ListNode* head) {
-        ListNode* prev = nullptr;
-        ListNode* curr = head;
-
+        ListNode* curr = slow->next;
         while (curr != nullptr) {
-            ListNode* nextTemp = curr->next;
+            ListNode* temp = curr->next;
             curr->next = prev;
             prev = curr;
-            curr = nextTemp;
+            curr = temp;
         }
-        return prev;
+
+        while (prev != nullptr) {
+            if (head->val != prev->val) {
+                return false;
+            }
+            head = head->next;
+            prev = prev->next;
+        }
+        return true;
     }
 };
