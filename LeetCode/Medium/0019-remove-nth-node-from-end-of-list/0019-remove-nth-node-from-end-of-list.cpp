@@ -16,13 +16,17 @@ public:
             fast = fast->next;
         }
         if (!fast) {
+            ListNode *temph = head-> next;
             return head->next;
+            delete temph;
         }
         while (fast->next) {
             slow = slow->next;
             fast = fast->next;
         }
+        ListNode *temp = slow-> next;
         slow->next = slow->next->next;
+        delete temp;
         return head;
     }
 };
