@@ -17,8 +17,8 @@ public:
         }
         if (!fast) {
             ListNode *temph = head-> next;
-            return head->next;
-            delete temph;
+            delete head;
+            return temph;
         }
         while (fast->next) {
             slow = slow->next;
