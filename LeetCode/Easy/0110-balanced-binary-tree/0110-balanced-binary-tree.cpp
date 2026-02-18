@@ -13,19 +13,18 @@
 class Solution {
 public:
     bool isBalanced(TreeNode* root) {
-        pair<int, bool> result = dfs_helper(root);
-        return result.second;
+        pair<int, bool> res = dfs(root);
+        return res.second;
     }
-    pair<int, bool> dfs_helper(TreeNode* root) {
-        if (root == nullptr) {
+    pair<int, bool> dfs(TreeNode* root) {
+        if (!root)
             return {0, true};
-        }
-        pair<int, bool> leftResult = dfs_helper(root->left);
-        pair<int, bool> rightResult = dfs_helper(root->right);
-        int hi = 1 + max (leftResult.first, rightResult.first);
-        bool bal = leftResult.second && rightResult.second && (abs(leftResult.first - rightResult.first) <= 1);
-        // cout << "Node " << root->val << " received Left height=" << leftResult.first
-        //      << ", Right height=" << rightResult.first << endl;
-        return {hi, bal};
+        pair<int, bool> lr = dfs(root->left);
+        pair<int, bool> rr = dfs(root->right);
+
+        int height = 1 + max(lr.first, rr.first);
+        bool balanced =
+            lr.second && rr.second && (abs(lr.first - rr.first) <= 1);
+        return {height, balanced};
     }
 };
