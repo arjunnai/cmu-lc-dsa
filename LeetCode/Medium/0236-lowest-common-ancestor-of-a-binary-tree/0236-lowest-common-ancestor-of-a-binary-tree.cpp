@@ -7,17 +7,20 @@
  *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  * };
  */
+
 class Solution {
+
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if (!root)
-            return nullptr;
-        if (root == p || root == q)
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+
+        if (!root || root == p || root == q)
             return root;
-        TreeNode* lr = lowestCommonAncestor(root->left, p, q);
-        TreeNode* rr = lowestCommonAncestor(root->right, p, q);
-        if (lr && rr)
+        TreeNode* leftSide = lowestCommonAncestor(root->left, p, q);
+        TreeNode* rightSide = lowestCommonAncestor(root->right, p, q);
+        if (leftSide && rightSide)
             return root;
-        return (lr) ? lr : rr;
+        return (leftSide) ? leftSide : rightSide;
     }
 };
