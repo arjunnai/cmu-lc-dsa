@@ -20,6 +20,9 @@ public:
         if (!root)
             return {0, true};
         pair<int, bool> lr = dfs(root->left);
+        if(lr.second == false){
+            return {-1,false};
+        }
         pair<int, bool> rr = dfs(root->right);
 
         int height = 1 + max(lr.first, rr.first);
