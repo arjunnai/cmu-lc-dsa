@@ -6,6 +6,9 @@ public:
             mid = left + (right - left) / 2;
             if (nums[mid] == target)
                 return true;
+            // only check to see if elements are same, if they are move pointers
+            // inwards cuz we know target aren't going to be present in the left
+            // right or mid one
             if (nums[left] == nums[mid] && nums[mid] == nums[right]) {
                 left++;
                 right--;
