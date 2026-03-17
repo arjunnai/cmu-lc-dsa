@@ -1,30 +1,36 @@
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
-        bool isFirst = true;
-        int fbs = binSearch(nums, target, isFirst);
-        int sbs = binSearch(nums, target, !isFirst);
-        return {fbs, sbs};
-    }
-
-    int binSearch(vector<int>& nums, int target, bool isFirst) {
-        int left = 0, right = nums.size() - 1;
-        int idx = -1;
-        while (left <= right) {
-            int mid = (left + (right - left)/2) ;
-            if (nums[mid] > target) {
-                right = mid - 1;
+        // need to find an earlier target towards left even if you found mid as
+        // target
+        int l = 0, r = nums.size() - 1, mid = 0, start = -1, end = -1;
+        // find first occurence
+        while (l <= r) {
+            mid = l + (r - l) / 2;
+            if (nums[mid] == target) {
+                start = mid;
+                r = mid - 1;
             } else if (nums[mid] < target) {
-                left = mid + 1;
-            } else if (nums[mid] == target) {
-                idx = mid;
-                if (isFirst) {
-                    right = mid - 1;
-                } else {
-                    left = mid + 1;
-                }
+                l = mid + 1;
+            } else {
+                r = mid - 1;
             }
         }
-        return idx;
+
+        // find last occurence
+        l = 0, r = nums.size()-1;
+        while (l <= r) {
+            mid = l + (r - l) / 2;
+            if (nums[mid] == target) {
+                end = mid;
+                l = mid + 1;
+            } else if (nums[mid] < target) {
+                l = mid + 1;
+            } else {
+                r = mid - 1;
+            }
+        }
+
+        return {start, end};
     }
 };
