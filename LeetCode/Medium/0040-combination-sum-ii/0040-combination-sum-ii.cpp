@@ -4,29 +4,28 @@ public:
         sort(candidates.begin(), candidates.end());
         vector<vector<int>> res;
         vector<int> curr;
-        dfs(res, curr, candidates, target, 0);
+        dfs(candidates, target, res, curr, 0);
         return res;
     }
-    void dfs(vector<vector<int>>& res, vector<int>& curr,
-             vector<int>& candidates, int target, int i) {
-        // success
+
+    void dfs(vector<int>& candidates, int target, vector<vector<int>>& res,
+             vector<int>& curr, int index) {
+        // base case same - target == 0 then success
         if (target == 0) {
             res.push_back(curr);
             return;
-        }
-        // failure
-        if (i == candidates.size() || target < 0) {
+        } else if (target < 0) {
             return;
         }
-        curr.push_back(candidates[i]);
-        // include
-        dfs(res, curr, candidates, (target - candidates[i]), i + 1);
-        curr.pop_back();
-        // while loop to skip index if there are duplicates
-        while (i + 1 < candidates.size() &&
-               candidates[i] == candidates[i + 1]) {
-            i++;
+
+        for (int i = index; i < candidates.size() && candidates[i] <= target;
+             i++) {
+            if (i > index && candidates[i] == candidates[i - 1]) {
+                continue;
+            }
+            curr.push_back(candidates[i]);
+            dfs(candidates, target - candidates[i], res, curr, i + 1);
+            curr.pop_back();
         }
-        dfs(res, curr, candidates, target, i + 1);
     }
 };
