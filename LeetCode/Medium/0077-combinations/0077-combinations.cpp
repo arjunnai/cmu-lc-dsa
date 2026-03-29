@@ -9,15 +9,23 @@ public:
 
     void dfs(vector<vector<int>>& res, vector<int>& curr, int n, int k,
              int index) {
-        if (curr.size() >= k) {
+        if (curr.size() == k) {
             res.push_back(curr);
             return;
         }
-        for (int i = index; i <= n-(k-curr.size())+1; i++) {
-            curr.push_back(i);
-            //including i
-            dfs(res, curr, n, k, i+1);
-            curr.pop_back();
+        if (index > n) {
+            return;
         }
+        // for (int i = index; i <= n-(k-curr.size())+1; i++) {
+        //     curr.push_back(i);
+        //     //including i
+        //     dfs(res, curr, n, k, i+1);
+        //     curr.pop_back();
+        // }
+
+        curr.push_back(index);
+        dfs(res, curr, n, k, index + 1);
+        curr.pop_back();
+        dfs(res, curr, n, k, index + 1);
     }
 };
