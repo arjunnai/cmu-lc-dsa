@@ -2,6 +2,8 @@ class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
         int i = nums.size() - 2;
+
+        //used to find the pivot, this is where nums[i]<nums[i+1] when i is at this spot
         while (i >= 0 && nums[i] >= nums[i + 1]) {
             i--;
         }
