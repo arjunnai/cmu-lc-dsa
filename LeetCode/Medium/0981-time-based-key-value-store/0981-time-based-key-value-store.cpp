@@ -1,33 +1,31 @@
 class TimeMap {
 private:
-    unordered_map<string, vector<pair<string,int>>> ump;
+    unordered_map<string, vector<pair<string, int>>> storage;
 
 public:
-    TimeMap() {
-    }
-    
+    TimeMap() {}
+
     void set(string key, string value, int timestamp) {
-        ump[key].push_back({value, timestamp});
+        storage[key].push_back({value, timestamp});
     }
-    
+
     string get(string key, int timestamp) {
-        if(!ump.contains(key)){
+        if (!storage.contains(key)) {
             return "";
         }
-        auto& pairs = ump[key];
-        string res = "";
-        int l = 0, r = ump[key].size()-1;
+        auto& keyTime = storage[key];
+        string ans = "";
+        int l = 0, r = storage[key].size() - 1;
         while(l<=r){
-            int mid = (l+r)/2;
-            if(pairs[mid].second <= timestamp){
-                res = pairs[mid].first;
+            int mid = l + (r-l)/2;
+            if(keyTime[mid].second <= timestamp){
                 l = mid + 1;
-            }else if(pairs[mid].second > timestamp){
-                r = mid - 1;
+                ans = keyTime[mid].first;
+            }else{
+                r = mid-1;
             }
         }
-
-        return res;
+        return ans;
     }
 };
 
