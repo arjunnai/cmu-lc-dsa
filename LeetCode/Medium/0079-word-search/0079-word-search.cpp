@@ -15,14 +15,13 @@ public:
 
     bool dfs(vector<vector<char>>& board, string& word, int row, int col,
              int idx) {
-        int m = board.size(), n = board[0].size();
         // base case : reach end of the word
         if (idx == word.size()) {
             return true;
         }
         // base case bad : out of bounds, lettter doesn't match target or *
         // already visited
-        if (row >= m || row < 0 || col >= n || col < 0 ||
+        if (row >= board.size() || row < 0 || col >= board[0].size() || col < 0 ||
             board[row][col] != word[idx]) {
             return false;
         }
