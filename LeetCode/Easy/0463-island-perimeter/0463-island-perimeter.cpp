@@ -14,6 +14,7 @@ public:
     }
 
     int dfs(vector<vector<int>>& grid, int i, int j) {
+        //if you look up see water or edge of map(edge case) we gotta add to perimeter same with right left down (which are edge case boundaries, if you look up and see land no need of boundary though)
         if (i < 0 || j < 0 || i >= grid.size() || j >= grid[0].size() ||
             grid[i][j] == 0) {
             return 1; // water gives 1 to perimeter
