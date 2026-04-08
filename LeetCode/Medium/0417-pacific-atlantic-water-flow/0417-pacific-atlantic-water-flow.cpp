@@ -1,6 +1,9 @@
 class Solution {
 public:
+    const int dirs[4][2] = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
     vector<vector<int>> pacificAtlantic(vector<vector<int>>& heights) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         vector<vector<int>> finalMap;
         int rows = heights.size(), cols = heights[0].size();
         vector<vector<bool>> pacific(rows, vector<bool>(cols, false));
@@ -28,7 +31,7 @@ public:
     void dfs(vector<vector<int>>& heights, vector<vector<bool>>& ocean, int i,
              int j) {
         ocean[i][j] = true;
-        int dirs[4][2] = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
+        // int dirs[4][2] = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
         for (auto& dir : dirs) {
             int next_i = i + dir[0];
             int next_j = j + dir[1];
