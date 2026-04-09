@@ -1,43 +1,43 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        int m = grid.size();
-        int n = grid[0].size();
-        int minutes = 0, freshOranges = 0;
-        queue<pair<int, int>> orangeQ;
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
+        queue<pair<int, int>> rotten;
+        int fresh = 0, minutes = 0, rows = grid.size(), cols = grid[0].size();
+        for (int i = 0; i < rows; i++) {
+            for (int j = 0; j < cols; j++) {
                 if (grid[i][j] == 2) {
-                    orangeQ.push({i, j});
-                }
-                if (grid[i][j] == 1) {
-                    freshOranges++;
+                    rotten.push({i, j});
+                } else if (grid[i][j] == 1) {
+                    fresh++;
                 }
             }
         }
-        while (!orangeQ.empty() && freshOranges > 0) {
-            int oSize = orangeQ.size();
-            int dr[] = {1, -1, 0, 0};
-            int dc[] = {0, 0, 1, -1};
-            for (int i = 0; i < oSize; i++) {
-                pair<int, int> curr = orangeQ.front();
-                orangeQ.pop();
-                int r = curr.first;
-                int c = curr.second;
-                for (int k = 0; k < 4; k++) {
-                    int nr = r + dr[k];
-                    int nc = c + dc[k];
-                    if (nr >= 0 && nr < m && nc >= 0 && nc < n &&
-                        grid[nr][nc] == 1) {
-                        grid[nr][nc] = 2;
-                        orangeQ.push({nr, nc});
-                        freshOranges--;
+        // fresh>0 - because if there are no fresh oranges we don't need to
+        // incremebt minutes
+        while (!rotten.empty() && fresh > 0) {
+            // standard bfs template
+            int size = rotten.size();
+            while (size--) {
+                // get coordinates for first item in queue in terms or {r,c}
+                pair<int, int> curr = rotten.front();
+                // pop it so we don't double count it
+                rotten.pop();
+                int dirs[4][2] = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
+                for (auto& dir : dirs) {
+                    int ni = curr.first + dir[0];
+                    int nj = curr.second + dir[1];
+                    if (ni >= 0 && nj >= 0 && ni < rows && nj < cols &&
+                        grid[ni][nj] == 1) {
+                        grid[ni][nj] = 2;
+                        rotten.push({ni, nj});
+                        fresh--;
                     }
                 }
             }
-            minutes++;
+            minutes++; // minutes increase after each full level has been
+                       // processed
         }
-
-        return freshOranges == 0 ? minutes : -1;
+        //if fresh > 0, then some oranges still survived so return -1 else return minutes
+        return (fresh > 0) ? -1 : minutes;
     }
 };
