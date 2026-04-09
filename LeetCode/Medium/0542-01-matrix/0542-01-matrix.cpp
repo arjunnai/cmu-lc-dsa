@@ -2,31 +2,37 @@ class Solution {
 public:
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
         queue<pair<int, int>> q;
-        int rows = mat.size();
-        int cols = mat[0].size();
+        int rows = mat.size(), cols = mat[0].size();
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
                 if (mat[i][j] == 0) {
                     q.push({i, j});
-                } else if (mat[i][j] == 1) {
+                } else {
                     mat[i][j] = INT_MAX;
                 }
             }
         }
-        while (!q.empty()) {
-            auto [r, c] = q.front();
-            q.pop();
 
-            int check[4][2] = {
-                {r + 1, c}, {r - 1, c}, {r, c + 1}, {r, c - 1}};
-            for (auto [row, col] : check) {
-                if (row >= 0 && row < rows && col >= 0 && col < cols &&
-                    mat[row][col] > mat[r][c] + 1) {
-                    mat[row][col] = mat[r][c] + 1;
-                    q.push({row, col});
+        while (!q.empty()) {
+            // standard bfs template
+            pair<int, int> curr = q.front();
+            int dirs[4][2] = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
+            q.pop();
+            for (auto& dir : dirs) {
+                int ni = curr.first + dir[0];
+                int nj = curr.second + dir[1];
+                // edge cases
+                if (ni >= 0 && nj >= 0 && ni < rows && nj < cols) {
+                    // Only update if the current path is shorter than what's
+                    // there
+                    if (mat[ni][nj] > mat[curr.first][curr.second] + 1) {
+                        mat[ni][nj] = mat[curr.first][curr.second] + 1;
+                        q.push({ni, nj});
+                    }
                 }
             }
         }
+
         return mat;
     }
 };
