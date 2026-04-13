@@ -1,36 +1,34 @@
 class Solution {
 public:
     vector<vector<string>> partition(string s) {
-        vector<vector<string>> res;
-        vector<string> currPath;
-        dfs(0, currPath, res, s);
-        return res;
+        vector<vector<string>> ans;
+        vector<string> temp;
+        dfs(s, ans, temp, 0);
+        return ans;
     }
 
-    void dfs(int idx, vector<string>& currPath, vector<vector<string>>& res,
-             string& s) {
-        // base case
+    void dfs(string& s, vector<vector<string>>& ans, vector<string>& temp,
+             int idx) {
         if (idx == s.size()) {
-            res.push_back(currPath);
+            ans.push_back(temp);
             return;
         }
-
-        for (int j = idx; j < s.size(); j++) {
-            if (isPalindrome(s, idx, j)) {
-                // take the palindrome slice and add it to currrpath
-                currPath.push_back(s.substr(idx, j - idx + 1));
-                //move start index to j+1
-                dfs(j + 1, currPath, res, s);
-                //backtrack
-                currPath.pop_back();
+        for (int i = idx; i < s.size(); i++) {
+            if (pali(s, idx, i)) {
+                temp.push_back(s.substr(idx, i - idx + 1));
+                dfs(s, ans, temp, i + 1);
+                temp.pop_back();
             }
         }
     }
 
-    bool isPalindrome(const string& s, int l, int h) {
-        while (l < h) {
-            if (s[l++] != s[h--])
+    bool pali(string s, int index, int i) {
+        int l = index, r = i;
+        while (l <= r) {
+            if (s[l] != s[r])
                 return false;
+            l++;
+            r--;
         }
         return true;
     }
