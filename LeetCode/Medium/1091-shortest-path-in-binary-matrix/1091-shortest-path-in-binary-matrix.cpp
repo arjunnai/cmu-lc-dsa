@@ -1,37 +1,30 @@
 class Solution {
 public:
     int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
-        queue<pair<int, int>> q;
-        int steps = 0, rows = grid.size(), cols = grid[0].size();
-        if (grid[0][0] == 1 || grid[rows - 1][cols - 1] == 1) {
+        int n = grid.size();
+        if (grid[0][0] == 1 || grid[n - 1][n - 1] == 1)
             return -1;
-        }
+        queue<pair<pair<int, int>, int>> q;
         grid[0][0] = 1;
-        q.push({0, 0});
-        steps++;
+        q.push({{0, 0}, 1});
         while (!q.empty()) {
-            int qSize = q.size();
-            while (qSize--) {
-                auto [r, c] = q.front();
-                q.pop();
-                // check if we reached target
-                if (r == rows - 1 && c == cols - 1) {
-                    return steps;
-                }
+            pair<pair<int, int>, int> curr = q.front();
+            q.pop();
 
-                int check[8][2] = {{r + 1, c},     {r, c + 1},
-                                   {r - 1, c},     {r, c - 1},
-                                   {r + 1, c - 1}, {r + 1, c + 1},
-                                   {r - 1, c - 1}, {r - 1, c + 1}};
-                for (auto& [i, j] : check) {
-                    if (i >= 0 && j >= 0 && i < rows && j < cols &&
-                        grid[i][j] == 0) {
-                        grid[i][j] = 1;
-                        q.push({i, j});
-                    }
+            if (curr.first.first == n - 1 && curr.first.second == n - 1) {
+                return curr.second;
+            }
+            int dRow[] = {-1, -1, -1, 0, 0, 1, 1, 1};
+            int dCol[] = {-1, 0, 1, -1, 1, -1, 0, 1};
+            for (int i = 0; i <= 7; i++) {
+                int nr = curr.first.first + dRow[i];
+                int nc = curr.first.second + dCol[i];
+                if (nr >= 0 && nc >= 0 && nr < n && nc < n &&
+                    grid[nr][nc] == 0) {
+                    grid[nr][nc] = 1;
+                    q.push({{nr, nc}, curr.second + 1});
                 }
             }
-            steps++;
         }
         return -1;
     }
