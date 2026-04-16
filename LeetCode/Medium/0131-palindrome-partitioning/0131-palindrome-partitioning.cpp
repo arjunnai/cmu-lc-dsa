@@ -2,31 +2,31 @@ class Solution {
 public:
     vector<vector<string>> partition(string s) {
         vector<vector<string>> ans;
-        vector<string> temp;
-        dfs(s, ans, temp, 0);
+        vector<string> curr;
+        dfs(s, ans, curr, 0);
         return ans;
     }
-
-    void dfs(string& s, vector<vector<string>>& ans, vector<string>& temp,
-             int idx) {
-        if (idx == s.size()) {
-            ans.push_back(temp);
+    void dfs(string s, vector<vector<string>>& ans, vector<string>& curr,
+             int start) {
+        if (start == s.size()) {
+            ans.push_back(curr);
             return;
         }
-        for (int i = idx; i < s.size(); i++) {
-            if (pali(s, idx, i)) {
-                temp.push_back(s.substr(idx, i - idx + 1));
-                dfs(s, ans, temp, i + 1);
-                temp.pop_back();
+
+        for (int end = start; end < s.size(); end++) {
+            if (isPalindrome(s, start, end)) {
+                curr.push_back(s.substr(start, end - start + 1));
+                dfs(s, ans, curr, end + 1);
+                curr.pop_back();
             }
         }
     }
 
-    bool pali(string s, int index, int i) {
-        int l = index, r = i;
+    bool isPalindrome(string s, int l, int r) {
         while (l <= r) {
-            if (s[l] != s[r])
+            if (s[l] != s[r]) {
                 return false;
+            }
             l++;
             r--;
         }
