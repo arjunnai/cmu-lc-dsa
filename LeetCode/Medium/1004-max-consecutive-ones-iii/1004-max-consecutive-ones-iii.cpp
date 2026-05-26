@@ -1,15 +1,23 @@
 class Solution {
 public:
     int longestOnes(vector<int>& nums, int k) {
-        int l = 0, zeros = 0, best = 0;
-        for (int r = 0; r < (int)nums.size(); r++) {
-            if (nums[r] == 0) zeros++;
-            while (zeros > k) {
-                if (nums[l] == 0) zeros--;
-                l++;
+        int left = 0, zeros = 0, maxlen = 0;
+        for(int right = 0; right < nums.size(); right++){
+            if(nums[right] == 0){
+                zeros++;
+                // cout << "Expanding: R=" << right << ", Zeros=" << zeros << endl;
+
+                while(zeros>k){
+                    if(nums[left] == 0){
+                        zeros--;
+                    }
+                    left++;
+                    // cout << "Shrinking: L=" << left << ", Zeros=" << zeros << endl;
+                }
             }
-            if (r - l + 1 > best) best = r - l + 1;
+            maxlen = max(maxlen, right - left + 1);
+            // cout << "Window [" << left << "," << right << "] size: " << maxlen << endl;
         }
-        return best;
+        return maxlen;
     }
 };
