@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0127-word-ladder](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 ## Rolling Hash
 | Problem Name | Difficulty |
@@ -51,4 +52,16 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1044-longest-duplicate-substring](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1044-longest-duplicate-substring/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
