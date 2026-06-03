@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0127-word-ladder](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 ## String
 | Problem Name | Difficulty |
