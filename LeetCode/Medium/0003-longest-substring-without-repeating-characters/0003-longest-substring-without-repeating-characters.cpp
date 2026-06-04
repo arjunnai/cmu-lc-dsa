@@ -1,17 +1,19 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        int l = 0, sLen = 0, maxSlen = 0;
-        unordered_map<char, int> freq;
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        
+        int l = 0, max_len = 0;
+        unordered_set<int> ust;
         for (int r = 0; r < s.size(); r++) {
-            while (freq.contains(s[r])) {
-                freq.erase(s[l]);
+            while (ust.contains(s[r])) {
+                ust.erase(s[l]);
                 l++;
             }
-            freq[s[r]]++;
-            sLen = r - l + 1;
-            maxSlen = max(sLen, maxSlen);
+            ust.insert(s[r]);
+            max_len = max(max_len, r - l + 1);
         }
-        return maxSlen;
+        return max_len;
     }
 };
