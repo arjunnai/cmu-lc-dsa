@@ -98,4 +98,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
