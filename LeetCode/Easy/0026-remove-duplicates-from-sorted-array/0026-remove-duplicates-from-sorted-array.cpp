@@ -1,19 +1,13 @@
-auto init = []() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
-    return 'c';
-}();
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        int idx = 1;
-        for (int i = 1; i < nums.size(); i++) {
-            if (nums[i] != nums[i - 1]) {
-                nums[idx] = nums[i];
-                idx++;
+        int index= 1;
+        for(int i = 1; i < nums.size(); i++){
+            if(nums[i] != nums[i-1]){
+                nums[index] = nums[i];
+                index++;
             }
         }
-        return idx;
+        return index;
     }
 };
