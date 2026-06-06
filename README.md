@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0383-ransom-note](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0242-valid-anagram](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
+| [0383-ransom-note](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [1044-longest-duplicate-substring](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1044-longest-duplicate-substring/) | Hard |
 ## Breadth-First Search
@@ -150,4 +152,5 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+| [0383-ransom-note](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
