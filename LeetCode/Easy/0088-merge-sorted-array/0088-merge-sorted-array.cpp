@@ -13,15 +13,11 @@ public:
                 write_index--;
             }
         }
-        while(n1>=0){
-            nums1[write_index] = nums1[n1];
-                            n1--;
-                write_index--;
-        }
-                while(n2>=0){
+
+        while(n2>=0){
             nums1[write_index] = nums2[n2];
-                            n2--;
-                write_index--;
+            n2--;
+            write_index--;
         }
     }
 };
