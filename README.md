@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+| [0016-3sum-closest](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
