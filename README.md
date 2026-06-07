@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0016-3sum-closest](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0409-longest-palindrome](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 ## Union-Find
