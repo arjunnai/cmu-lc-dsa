@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0127-word-ladder](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
@@ -175,4 +177,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
