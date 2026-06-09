@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0205-isomorphic-strings](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
@@ -200,4 +202,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
