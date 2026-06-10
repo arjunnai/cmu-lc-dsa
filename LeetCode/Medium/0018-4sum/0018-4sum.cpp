@@ -1,36 +1,32 @@
 class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
-        vector<vector<int>> ans;
-        int n = nums.size();
-        if (n < 4)
-            return ans;
         sort(nums.begin(), nums.end());
-        for (int i = 0; i < n - 3; i++) {
+        vector<vector<int>> ans;
+        for (int i = 0; i < nums.size(); i++) {
             if (i > 0 && nums[i] == nums[i - 1])
                 continue;
-            for (int j = i + 1; j < n - 2; j++) {
+            for (int j = i + 1; j < nums.size(); j++) {
                 if (j > i + 1 && nums[j] == nums[j - 1])
                     continue;
-                int left = j + 1;
-                int right = n - 1;
-                while (left < right) {
-                    long long currSum =
-                        (long long)nums[i] + nums[j] + nums[left] + nums[right];
-                    if (currSum == target) {
-                        ans.push_back(
-                            {nums[i], nums[j], nums[left], nums[right]});
-                        while (left < right && nums[left] == nums[left + 1])
-                            left++;
-                        while (left < right && nums[right] == nums[right - 1])
-                            right--;
+                int p = j + 1;
+                int q = nums.size() - 1;
+                while (p < q) {
+                    long long sum =
+                        (long long)nums[i] + nums[j] + nums[p] + nums[q];
+                    if (sum == target) {
 
-                        left++;
-                        right--;
-                    } else if (currSum < target) {
-                        left++;
+                        ans.push_back({nums[i], nums[j], nums[p], nums[q]});
+                        p++;
+                        q--;
+                        while (p < q && nums[p] == nums[p - 1])
+                            p++;
+                        while (p < q && nums[q] == nums[q + 1])
+                            q--;
+                    } else if (sum < target) {
+                        p++;
                     } else {
-                        right--;
+                        q--;
                     }
                 }
             }
