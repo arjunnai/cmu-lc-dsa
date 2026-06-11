@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0006-zigzag-conversion/) | Medium |
 | [0014-longest-common-prefix](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
