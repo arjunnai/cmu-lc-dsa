@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1044-longest-duplicate-substring](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1044-longest-duplicate-substring/) | Hard |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0409-longest-palindrome](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 ## String
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0409-longest-palindrome](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [1044-longest-duplicate-substring](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1044-longest-duplicate-substring/) | Hard |
 ## Breadth-First Search
