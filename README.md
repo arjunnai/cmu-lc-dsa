@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
@@ -232,4 +234,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
