@@ -11,11 +11,11 @@ public:
         }
 
         reverse(words.begin(), words.end());
-        cout<<words[0];
 
         string res = "";
         for(int i = 0 ; i < words.size(); i++){
             res+=words[i];
+            //if current word is not last word add space
             if(i != words.size()-1){
                 res += " ";
             }
