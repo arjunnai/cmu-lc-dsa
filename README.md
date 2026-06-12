@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
@@ -210,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
