@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0853-car-fleet](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 ## Linked List
@@ -282,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -296,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
