@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1044-longest-duplicate-substring](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1044-longest-duplicate-substring/) | Hard |
 ## Prefix Sum
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
