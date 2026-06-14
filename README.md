@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0905-sort-array-by-parity](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1044-longest-duplicate-substring](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1044-longest-duplicate-substring/) | Hard |
+| [1248-count-number-of-nice-subarrays](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
