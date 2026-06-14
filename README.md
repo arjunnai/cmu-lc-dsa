@@ -306,10 +306,12 @@ Collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
+| [0901-online-stock-span](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+| [0901-online-stock-span](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -322,8 +324,13 @@ Collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
+| [0901-online-stock-span](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
