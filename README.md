@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
+| [0227-basic-calculator-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0227-basic-calculator-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0227-basic-calculator-ii/) | Medium |
 | [0268-missing-number](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 ## Bit Manipulation
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0227-basic-calculator-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
