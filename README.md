@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0227-basic-calculator-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0316-remove-duplicate-letters](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0394-decode-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
+| [0316-remove-duplicate-letters](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
@@ -316,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0227-basic-calculator-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
+| [0316-remove-duplicate-letters](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
@@ -336,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0316-remove-duplicate-letters](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
