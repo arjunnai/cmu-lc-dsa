@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0443-string-compression/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [1044-longest-duplicate-substring](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1044-longest-duplicate-substring/) | Hard |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
