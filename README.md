@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -313,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0316-remove-duplicate-letters](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0680-valid-palindrome-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -323,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0410-split-array-largest-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
