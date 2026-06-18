@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1044-longest-duplicate-substring](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1044-longest-duplicate-substring/) | Hard |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
