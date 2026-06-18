@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
+| [0214-shortest-palindrome](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0214-shortest-palindrome/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0227-basic-calculator-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0214-shortest-palindrome/) | Hard |
 | [1044-longest-duplicate-substring](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1044-longest-duplicate-substring/) | Hard |
 ## Suffix Array
 | Problem Name | Difficulty |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0214-shortest-palindrome/) | Hard |
 | [1044-longest-duplicate-substring](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1044-longest-duplicate-substring/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -337,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0214-shortest-palindrome](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0214-shortest-palindrome/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
