@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1248-count-number-of-nice-subarrays](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1929-concatenation-of-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -390,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
 | [0735-asteroid-collision](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
+| [1929-concatenation-of-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
