@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
@@ -377,12 +379,14 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [0705-design-hashset](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [0901-online-stock-span](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
