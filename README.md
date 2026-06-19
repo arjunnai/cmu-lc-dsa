@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1929-concatenation-of-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
+| [2022-convert-1d-array-into-2d-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -376,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
+| [2022-convert-1d-array-into-2d-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -392,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
 | [0735-asteroid-collision](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [1929-concatenation-of-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
+| [2022-convert-1d-array-into-2d-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
