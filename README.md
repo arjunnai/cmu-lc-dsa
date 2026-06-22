@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0443-string-compression/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
+| [0844-backspace-string-compare](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
 | [1044-longest-duplicate-substring](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1044-longest-duplicate-substring/) | Hard |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0443-string-compression/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
+| [0844-backspace-string-compare](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
 | [0881-boats-to-save-people](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
@@ -419,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+| [0844-backspace-string-compare](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
 | [0853-car-fleet](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -454,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
 | [0682-baseball-game](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
+| [0844-backspace-string-compare](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
 | [1929-concatenation-of-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Data Stream
