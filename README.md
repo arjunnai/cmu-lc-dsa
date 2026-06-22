@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
+| [0682-baseball-game](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
@@ -409,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0394-decode-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
+| [0682-baseball-game](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
@@ -444,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
+| [0682-baseball-game](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [1929-concatenation-of-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
