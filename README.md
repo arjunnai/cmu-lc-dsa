@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
+| [0165-compare-version-numbers](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0165-compare-version-numbers/) | Medium |
 | [0205-isomorphic-strings](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0214-shortest-palindrome](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0214-shortest-palindrome/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0227-basic-calculator-ii/) | Medium |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0148-sort-list](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
+| [0165-compare-version-numbers](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0165-compare-version-numbers/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
