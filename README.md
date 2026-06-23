@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0016-3sum-closest](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
@@ -371,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0148-sort-list](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
