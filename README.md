@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0061-rotate-list](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0092-reverse-linked-list-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0092-reverse-linked-list-ii/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
