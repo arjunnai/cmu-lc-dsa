@@ -335,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0705-design-hashset](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
