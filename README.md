@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0853-car-fleet](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
