@@ -351,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0092-reverse-linked-list-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0092-reverse-linked-list-ii/) | Medium |
@@ -368,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0143-reorder-list](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
