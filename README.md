@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0214-shortest-palindrome](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0214-shortest-palindrome/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0227-basic-calculator-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0113-path-sum-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0113-path-sum-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0113-path-sum-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -473,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0304-range-sum-query-2d-immutable](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [0705-design-hashset](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
