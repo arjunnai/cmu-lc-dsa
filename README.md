@@ -248,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0214-shortest-palindrome/) | Hard |
+| [0572-subtree-of-another-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 | [0705-design-hashset](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
 | [1044-longest-duplicate-substring](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1044-longest-duplicate-substring/) | Hard |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0572-subtree-of-another-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0572-subtree-of-another-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0572-subtree-of-another-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -451,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0214-shortest-palindrome](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0214-shortest-palindrome/) | Hard |
+| [0572-subtree-of-another-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
