@@ -13,12 +13,11 @@
 class Solution {
 public:
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        // if root is null, return false direct
-        if (root == nullptr) {
+        if (!root)
             return false;
-        } else {
+        else {
             return (isSame(root, subRoot) || isSubtree(root->left, subRoot) ||
-                        isSubtree(root->right, subRoot));
+                    isSubtree(root->right, subRoot));
         }
     }
 
