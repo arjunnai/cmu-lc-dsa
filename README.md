@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+| [0953-verifying-an-alien-dictionary](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0953-verifying-an-alien-dictionary/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0986-interval-list-intersections/) | Medium |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0706-design-hashmap](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
 | [0895-maximum-frequency-stack](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0895-maximum-frequency-stack/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
+| [0953-verifying-an-alien-dictionary](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0953-verifying-an-alien-dictionary/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 ## String
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0443-string-compression/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
+| [0953-verifying-an-alien-dictionary](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0953-verifying-an-alien-dictionary/) | Easy |
 | [1044-longest-duplicate-substring](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1044-longest-duplicate-substring/) | Hard |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
