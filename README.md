@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0162-find-peak-element](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0127-word-ladder](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
+| [0130-surrounded-regions](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
+| [0130-surrounded-regions](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -449,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -505,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
+| [0130-surrounded-regions](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [0463-island-perimeter](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
