@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0463-island-perimeter](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
@@ -291,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0463-island-perimeter](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
@@ -590,5 +592,10 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0133-clone-graph/) | Medium |
+| [0207-course-schedule](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0997-find-the-town-judge](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0997-find-the-town-judge/) | Easy |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
