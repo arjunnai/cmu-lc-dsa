@@ -2,7 +2,7 @@ class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
 
-        // if i finish this course, which list of courses can i unlock
+        // if i finish this course, what other list of courses can i unlock
         vector<vector<int>> graph(numCourses);
         // how many more prereqs do I need to finish before being able to sit in
         // the class
