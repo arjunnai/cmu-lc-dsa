@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0974-subarray-sums-divisible-by-k](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0986-interval-list-intersections/) | Medium |
+| [0994-rotting-oranges](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0997-find-the-town-judge/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0417-pacific-atlantic-water-flow](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
+| [0994-rotting-oranges](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -532,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0417-pacific-atlantic-water-flow](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
+| [0994-rotting-oranges](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
