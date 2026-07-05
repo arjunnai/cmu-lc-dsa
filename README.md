@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
+| [0695-max-area-of-island](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0463-island-perimeter](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
+| [0695-max-area-of-island](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0463-island-perimeter](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
+| [0695-max-area-of-island](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -462,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -523,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [0463-island-perimeter](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
+| [0695-max-area-of-island](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
