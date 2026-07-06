@@ -1,47 +1,36 @@
 class Solution {
 public:
     int closedIsland(vector<vector<int>>& grid) {
-        int rows = grid.size();
-        int cols = grid[0].size();
-        int validIsland = 0;
-        // phase 1 cleanup on edges
-        for (int j = 0; j < cols; j++) {
-            // top row
+        int m = grid.size(), n = grid[0].size(), val = 0;
+        for (int j = 0; j < n; j++) {
             if (grid[0][j] == 0) {
                 dfs(grid, 0, j);
             }
-            // bottom row
-            if (grid[rows - 1][j] == 0) {
-                dfs(grid, rows - 1, j);
+            if (grid[m - 1][j] == 0) {
+                dfs(grid, m - 1, j);
             }
         }
-
-        for (int i = 0; i < rows; i++) {
-            // left col
+        for (int i = 0; i < m; i++) {
             if (grid[i][0] == 0) {
                 dfs(grid, i, 0);
             }
-            // right col
-            if (grid[i][cols - 1] == 0) {
-                dfs(grid, i, cols - 1);
+            if (grid[i][n - 1] == 0) {
+                dfs(grid, i, n - 1);
             }
         }
-
-        // phase 2 - normal dfs like we did for island problem
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
                 if (grid[i][j] == 0) {
                     dfs(grid, i, j);
-                    validIsland++;
+                    val++;
                 }
             }
         }
-        return validIsland;
+        return val;
     }
     void dfs(vector<vector<int>>& grid, int i, int j) {
-        int row = grid.size();
-        int cols = grid[0].size();
-        if (i < 0 || i >= row || j < 0 || j >= cols || grid[i][j] != 0) {
+        int m = grid.size(), n = grid[0].size();
+        if (i < 0 || i >= m || j < 0 || j >= n || grid[i][j] != 0) {
             return;
         }
         grid[i][j] = 1;
