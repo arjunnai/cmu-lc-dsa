@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1254-number-of-closed-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1905-count-sub-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1905-count-sub-islands/) | Medium |
 | [1929-concatenation-of-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Binary Search
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
+| [1905-count-sub-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1905-count-sub-islands/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [1020-number-of-enclaves](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
+| [1905-count-sub-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1905-count-sub-islands/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -479,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [1020-number-of-enclaves](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
+| [1905-count-sub-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1905-count-sub-islands/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -545,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
+| [1905-count-sub-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1905-count-sub-islands/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
