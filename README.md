@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
+| [0690-employee-importance](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0690-employee-importance/) | Medium |
 | [0695-max-area-of-island](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
+| [0690-employee-importance](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0690-employee-importance/) | Medium |
 | [0705-design-hashset](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
 | [0895-maximum-frequency-stack](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0895-maximum-frequency-stack/) | Hard |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
+| [0690-employee-importance](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0690-employee-importance/) | Medium |
 | [0695-max-area-of-island](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
@@ -293,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0572-subtree-of-another-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
+| [0690-employee-importance](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0690-employee-importance/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -312,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0417-pacific-atlantic-water-flow](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
+| [0690-employee-importance](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0690-employee-importance/) | Medium |
 | [0695-max-area-of-island](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [1020-number-of-enclaves](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
