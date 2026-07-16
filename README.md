@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1905-count-sub-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1905-count-sub-islands/) | Medium |
 | [1929-concatenation-of-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0977-squares-of-a-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0986-interval-list-intersections/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -409,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0905-sort-array-by-parity](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -451,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -587,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0844-backspace-string-compare](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
 | [1929-concatenation-of-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -650,4 +655,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
 | [0743-network-delay-time](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
