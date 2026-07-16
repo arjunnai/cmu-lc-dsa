@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0463-island-perimeter](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 | [0690-employee-importance](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0690-employee-importance/) | Medium |
 | [0695-max-area-of-island](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
+| [0743-network-delay-time](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [0994-rotting-oranges](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0572-subtree-of-another-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 | [0690-employee-importance](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0690-employee-importance/) | Medium |
 | [0695-max-area-of-island](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
+| [0743-network-delay-time](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [1020-number-of-enclaves](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -595,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
+| [0743-network-delay-time](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [0912-sort-an-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -630,9 +633,14 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
+| [0743-network-delay-time](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [0997-find-the-town-judge](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0997-find-the-town-judge/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
