@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0399-evaluate-division](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0394-decode-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
+| [0399-evaluate-division](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
 | [0402-remove-k-digits](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0399-evaluate-division](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 | [0690-employee-importance](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0690-employee-importance/) | Medium |
@@ -314,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0399-evaluate-division](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
@@ -489,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0399-evaluate-division](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
 | [0695-max-area-of-island](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [1020-number-of-enclaves](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
@@ -633,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
+| [0399-evaluate-division](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
 | [0743-network-delay-time](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [0997-find-the-town-judge](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0997-find-the-town-judge/) | Easy |
 ## Topological Sort
@@ -642,5 +648,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0399-evaluate-division](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
 | [0743-network-delay-time](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
