@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
+| [1376-time-needed-to-inform-all-employees](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1905-count-sub-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1905-count-sub-islands/) | Medium |
 ## Rolling Hash
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0572-subtree-of-another-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 | [0690-employee-importance](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0690-employee-importance/) | Medium |
+| [1376-time-needed-to-inform-all-employees](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1376-time-needed-to-inform-all-employees/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -327,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0743-network-delay-time](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [1020-number-of-enclaves](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
+| [1376-time-needed-to-inform-all-employees](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1905-count-sub-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1905-count-sub-islands/) | Medium |
 ## Binary Tree
