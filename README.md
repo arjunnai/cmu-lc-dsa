@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1095-find-in-mountain-array/) | Hard |
+| [1162-as-far-from-land-as-possible](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1162-as-far-from-land-as-possible/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0743-network-delay-time](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [0994-rotting-oranges](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
+| [1162-as-far-from-land-as-possible](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1162-as-far-from-land-as-possible/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -514,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
+| [1162-as-far-from-land-as-possible](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1162-as-far-from-land-as-possible/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -571,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
+| [1162-as-far-from-land-as-possible](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1162-as-far-from-land-as-possible/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1905-count-sub-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1905-count-sub-islands/) | Medium |
