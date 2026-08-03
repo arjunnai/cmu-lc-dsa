@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0463-island-perimeter](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
+| [0491-non-decreasing-subsequences](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0491-non-decreasing-subsequences](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
@@ -360,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0079-word-search](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0113-path-sum-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
 | [0980-unique-paths-iii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0980-unique-paths-iii/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
@@ -475,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0268-missing-number](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
 | [0980-unique-paths-iii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0980-unique-paths-iii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
