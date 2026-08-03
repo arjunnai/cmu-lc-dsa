@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+| [0079-word-search](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0071-simplify-path/) | Medium |
 | [0076-minimum-window-substring](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
@@ -354,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0113-path-sum-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -570,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
