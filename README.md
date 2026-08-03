@@ -674,4 +674,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Concurrency
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1114-print-in-order](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/1114-print-in-order/) | Easy |
 <!---LeetCode Topics End-->
