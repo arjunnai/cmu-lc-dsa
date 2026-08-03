@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0953-verifying-an-alien-dictionary](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0953-verifying-an-alien-dictionary/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [0980-unique-paths-iii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0980-unique-paths-iii/) | Hard |
 | [0986-interval-list-intersections](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0986-interval-list-intersections/) | Medium |
 | [0994-rotting-oranges](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0997-find-the-town-judge/) | Easy |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0079-word-search](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0113-path-sum-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
+| [0980-unique-paths-iii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0980-unique-paths-iii/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -473,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0268-missing-number](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
+| [0980-unique-paths-iii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0980-unique-paths-iii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -582,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0417-pacific-atlantic-water-flow](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
+| [0980-unique-paths-iii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1162-as-far-from-land-as-possible/) | Medium |
@@ -683,4 +687,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1114-print-in-order](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/1114-print-in-order/) | Easy |
+## Hamiltonian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0980-unique-paths-iii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0980-unique-paths-iii/) | Hard |
 <!---LeetCode Topics End-->
