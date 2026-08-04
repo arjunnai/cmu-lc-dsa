@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1929-concatenation-of-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2305-fair-distribution-of-cookies](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/2305-fair-distribution-of-cookies/) | Medium |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/3149-find-the-minimum-cost-array-permutation/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -492,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0980-unique-paths-iii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0980-unique-paths-iii/) | Hard |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/2305-fair-distribution-of-cookies/) | Medium |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/3149-find-the-minimum-cost-array-permutation/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -549,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1162-as-far-from-land-as-possible](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1162-as-far-from-land-as-possible/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/2305-fair-distribution-of-cookies/) | Medium |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/3149-find-the-minimum-cost-array-permutation/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -714,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/2305-fair-distribution-of-cookies/) | Medium |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/3149-find-the-minimum-cost-array-permutation/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
