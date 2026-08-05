@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0853-car-fleet](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
@@ -562,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0140-word-break-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
 | [0377-combination-sum-iv](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0377-combination-sum-iv/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
+| [0746-min-cost-climbing-stairs](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [1162-as-far-from-land-as-possible](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1162-as-far-from-land-as-possible/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
