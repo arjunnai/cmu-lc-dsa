@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
+| [0213-house-robber-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
@@ -563,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [0140-word-break-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
 | [0198-house-robber](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0377-combination-sum-iv](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0377-combination-sum-iv/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
