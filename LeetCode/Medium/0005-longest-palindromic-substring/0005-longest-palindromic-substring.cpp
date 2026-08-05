@@ -1,57 +1,29 @@
 class Solution {
 public:
+    int n;
+    int t[1000][1000];
     string longestPalindrome(string s) {
-        //     int l = 0, r = s.size() - 1;
-        //     string longest = "";
-        //     // while (l < r) {
-        //     //     if (isPali(s, l, r) && (r - l + 1) > longest.size()) {
-        //     //         longest = s.substr(l, r - i + 1);
-        //     //     }
-        //     //     l++;
-        //     //     r--;
-        //     // }
-        //     for (int i = 0; i < s.size(); i++) {
-        //         for (int j = i; j < s.size(); j++) {
-        //             if (isPali(s, i, j) && (j - i + 1) > longest.size()) {
-        //                 longest = s.substr(i, j - i + 1);
-        //             }
-        //         }
-        //     }
-        //     return longest;
-        // }
-        // bool isPali(string s, int l, int r) {
-        //     while (l < r) {
-        //         if (s[l] != s[r]) {
-        //             return false;
-        //         }
-        //         l++;
-        //         r--;
-        //     }
-        //     return true;
-        // }
-        // o(n3) above
-
-        if (s.size() < 1)
-            return "";
-        int start = 0, maxLen = 0;
-
-        auto expand = [&](int l, int r) {
-            while (l >= 0 && r < s.size() && s[l] == s[r]) {
-                l--;
-                r++;
-            }
-            return r - l - 1;
-        };
-
-        for (int i = 0; i < s.size(); i++) {
-            int len1 = expand(i, i);
-            int len2 = expand(i, i + 1);
-            int len = max(len1, len2);
-            if (len > maxLen) {
-                maxLen = len;
-                start = i - (len - 1) / 2;
+        n = s.size();
+        memset(t, -1, n*sizeof(int));
+        int bestStart = 0, bestLen = 1;
+        for (int l = 0; l < n; l++) {
+            for (int r = l; r < n; r++) {
+                if (isPali(l, r, s) && r - l + 1 > bestLen) {
+                    bestStart = l;
+                    bestLen = r - l + 1;
+                }
             }
         }
-            return s.substr(start, maxLen);
+        return s.substr(bestStart, bestLen);
+    }
+    bool isPali(int l, int r, string& s) {
+        if (l >= r)
+            return true;
+        if (t[l][r] != -1)
+            return t[l][r];
+        if (s[l] != s[r]) {
+            return false;
         }
-    };
+        return t[l][r] = isPali(l + 1, r - 1, s);
+    }
+};
