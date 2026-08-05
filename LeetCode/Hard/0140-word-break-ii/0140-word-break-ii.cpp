@@ -1,36 +1,31 @@
 class Solution {
 public:
     vector<string> wordBreak(string s, vector<string>& wordDict) {
-        // convert vector to a set so we have o(1) lookiup
         unordered_set<string> dictSet(wordDict.begin(), wordDict.end());
         vector<string> res;
         vector<string> currPath;
-        dfs(s, dictSet, res, currPath, 0);
+        dfs(0, dictSet, s, res, currPath);
         return res;
     }
 
-    void dfs(string& s, unordered_set<string>& dictSet, vector<string>& res,
-             vector<string>& currPath, int idx) {
-        // if scanner reaches end of string stop
+    void dfs(int idx, unordered_set<string>& dictSet, string& s,
+             vector<string>& res, vector<string>& currPath) {
         if (idx == s.size()) {
-            // cant directly push currpath to res since both are jsut
-            // vector<strings>
-            string sentence = "";
+            string sent = "";
             for (int i = 0; i < currPath.size(); i++) {
-                sentence += currPath[i];
+                sent += currPath[i];
                 if (i < currPath.size() - 1) {
-                    sentence += " ";
+                    sent += " ";
                 }
             }
-            res.push_back(sentence);
+            res.push_back(sent);
             return;
         }
-    //usual backtracking, check if slice is present in the dict, if it is add it to currpath, then dfs downwards then backtrack
-        for (int j = idx; j < s.size(); j++) {
-            string slice = s.substr(idx, j - idx + 1);
+        for (int i = idx; i < s.size(); i++) {
+            string slice = s.substr(idx, i - idx + 1);
             if (dictSet.contains(slice)) {
                 currPath.push_back(slice);
-                dfs(s, dictSet, res, currPath, j + 1);
+                dfs(i + 1, dictSet, s, res, currPath);
                 currPath.pop_back();
             }
         }
