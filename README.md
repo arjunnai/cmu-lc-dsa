@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1162-as-far-from-land-as-possible](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1162-as-far-from-land-as-possible/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0974-subarray-sums-divisible-by-k](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0997-find-the-town-judge](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0997-find-the-town-judge/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1255-maximum-score-words-formed-by-letters/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0953-verifying-an-alien-dictionary](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0953-verifying-an-alien-dictionary/) | Easy |
 | [1044-longest-duplicate-substring](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1044-longest-duplicate-substring/) | Hard |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 ## Breadth-First Search
@@ -373,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
 | [0980-unique-paths-iii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0980-unique-paths-iii/) | Hard |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/2305-fair-distribution-of-cookies/) | Medium |
 ## Trie
@@ -491,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
 | [0980-unique-paths-iii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0980-unique-paths-iii/) | Hard |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/2305-fair-distribution-of-cookies/) | Medium |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/3149-find-the-minimum-cost-array-permutation/) | Hard |
@@ -508,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0383-ransom-note](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1255-maximum-score-words-formed-by-letters/) | Hard |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -549,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0377-combination-sum-iv](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0377-combination-sum-iv/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [1162-as-far-from-land-as-possible](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1162-as-far-from-land-as-possible/) | Medium |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/2305-fair-distribution-of-cookies/) | Medium |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/3149-find-the-minimum-cost-array-permutation/) | Hard |
@@ -716,6 +723,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/2305-fair-distribution-of-cookies/) | Medium |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/3149-find-the-minimum-cost-array-permutation/) | Hard |
 ## Enumeration
