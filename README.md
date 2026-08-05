@@ -486,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0043-multiply-strings](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
 | [0069-sqrtx](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0227-basic-calculator-ii/) | Medium |
@@ -554,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0070-climbing-stairs](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
@@ -739,5 +741,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0140-word-break-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
 <!---LeetCode Topics End-->
