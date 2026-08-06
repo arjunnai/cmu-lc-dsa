@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1254-number-of-closed-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
@@ -575,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0746-min-cost-climbing-stairs](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [1162-as-far-from-land-as-possible](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1162-as-far-from-land-as-possible/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1255-maximum-score-words-formed-by-letters/) | Hard |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/2305-fair-distribution-of-cookies/) | Medium |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/3149-find-the-minimum-cost-array-permutation/) | Hard |
