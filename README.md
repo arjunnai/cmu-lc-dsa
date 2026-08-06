@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1559-detect-cycles-in-2d-grid](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [1905-count-sub-islands](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1905-count-sub-islands/) | Medium |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1929-concatenation-of-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2305-fair-distribution-of-cookies](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/2305-fair-distribution-of-cookies/) | Medium |
@@ -578,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1255-maximum-score-words-formed-by-letters](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/2305-fair-distribution-of-cookies/) | Medium |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/3149-find-the-minimum-cost-array-permutation/) | Hard |
 ## String Matching
