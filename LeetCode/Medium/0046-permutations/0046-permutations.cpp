@@ -1,30 +1,29 @@
 class Solution {
 public:
+    int n;
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<vector<int>> res;
-        vector<bool> used(nums.size(), false);
+        n = nums.size(); vector<vector<int>> res;
         vector<int> curr;
-        dfs(nums, res, used, curr);
+        vector<bool> used(n, false);
+        dfs(0, nums, curr, res, used);
         return res;
     }
-
-    void dfs(vector<int>& nums, vector<vector<int>>& res, vector<bool>& used,
-             vector<int>& curr) {
-        // base case if curr.size and nums size is same
-        if (curr.size() == nums.size()) {
+    void dfs(int idx, vector<int>& nums, vector<int>& curr,
+             vector<vector<int>>& res, vector<bool>& used) {
+        if (idx == n) {
             res.push_back(curr);
             return;
         }
-
-        // loop similar to combination
-        for (int i = 0; i < nums.size(); i++) {
+        // use
+        for (int i = 0; i < n; i++) {
             if (used[i] == true)
                 continue;
             used[i] = true;
             curr.push_back(nums[i]);
-            dfs(nums, res, used, curr);
+            dfs(idx + 1, nums, curr, res, used);
             curr.pop_back();
             used[i] = false;
         }
+
     }
 };
