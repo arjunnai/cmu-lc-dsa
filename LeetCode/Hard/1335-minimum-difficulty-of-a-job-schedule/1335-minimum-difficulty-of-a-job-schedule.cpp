@@ -3,9 +3,10 @@ public:
     int t[301][11];
     int minDifficulty(vector<int>& jd, int d) {
         int n = jd.size();
-        memset(t, -1, sizeof(t));
         if (n < d)
             return -1;
+        memset(t, -1, sizeof(t));
+
         return dfs(jd, n, 0, d);
     }
     int dfs(vector<int>& jd, int n, int idx, int d) {
