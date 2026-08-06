@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0046-permutations](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0113-path-sum-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
