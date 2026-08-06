@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
+| [1048-longest-string-chain](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1095-find-in-mountain-array/) | Hard |
 | [1162-as-far-from-land-as-possible](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1162-as-far-from-land-as-possible/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0953-verifying-an-alien-dictionary](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0953-verifying-an-alien-dictionary/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0997-find-the-town-judge](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0997-find-the-town-judge/) | Easy |
+| [1048-longest-string-chain](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1255-maximum-score-words-formed-by-letters/) | Hard |
 ## String
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0844-backspace-string-compare](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0953-verifying-an-alien-dictionary/) | Easy |
 | [1044-longest-duplicate-substring](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1044-longest-duplicate-substring/) | Hard |
+| [1048-longest-string-chain](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -437,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0905-sort-array-by-parity](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0986-interval-list-intersections/) | Medium |
+| [1048-longest-string-chain](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
@@ -460,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0905-sort-array-by-parity](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [1048-longest-string-chain](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -578,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0377-combination-sum-iv](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0377-combination-sum-iv/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
+| [1048-longest-string-chain](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1162-as-far-from-land-as-possible/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
