@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0377-combination-sum-iv](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0377-combination-sum-iv/) | Medium |
 | [0399-evaluate-division](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -596,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0377-combination-sum-iv](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0377-combination-sum-iv/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0647-palindromic-substrings](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [1048-longest-string-chain](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
@@ -795,6 +797,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -803,4 +806,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
