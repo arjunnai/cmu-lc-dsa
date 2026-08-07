@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0071-simplify-path](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0071-simplify-path/) | Medium |
 | [0076-minimum-window-substring](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+| [0091-decode-ways](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
@@ -575,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
+| [0091-decode-ways](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
