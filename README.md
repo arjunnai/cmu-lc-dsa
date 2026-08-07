@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
+| [0322-coin-change](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0377-combination-sum-iv](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0377-combination-sum-iv/) | Medium |
 | [0399-evaluate-division](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0322-coin-change](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0399-evaluate-division](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
@@ -584,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
+| [0322-coin-change](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0377-combination-sum-iv](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0377-combination-sum-iv/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0647-palindromic-substrings](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0647-palindromic-substrings/) | Medium |
@@ -780,4 +783,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
