@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
+| [0139-word-break](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
+| [0139-word-break](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
 | [0141-linked-list-cycle](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
+| [0139-word-break](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0165-compare-version-numbers/) | Medium |
@@ -406,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+| [0139-word-break](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -583,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
+| [0139-word-break](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
@@ -776,6 +781,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
@@ -793,4 +799,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
