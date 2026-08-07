@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0140-word-break-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
@@ -583,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [0140-word-break-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/arjunnai/cmu-lc-dsa/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
